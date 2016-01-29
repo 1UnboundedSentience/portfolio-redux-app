@@ -45,12 +45,12 @@ class Home extends Component {
 
 
 				<div className="skill-item clearfix">
-					<h4>Server Side JS</h4>
+					<h4>Server Side CRUD</h4>
 					<ul>
-						<li><em>MongoDB</em></li>
-						<li><em><b>*</b>Node</em>
+						<li><em>MySql</em></li>
+						<li><em><b>*</b>PostgreSQL</em>
 							<ul>
-								<li><em><b>*</b>Express</em></li>
+								<li><em><b>*</b>MongoDB</em></li>
 								<li><em>SQL</em></li>
 							</ul>
 						</li>
@@ -58,12 +58,11 @@ class Home extends Component {
 				</div>
 
 				<div className="skill-item clearfix">
-					<h4>Testing</h4>
+					<h4>Test Driven Development</h4>
 					<ul>
-						<li><em>Jasmine</em></li>
-						<li><em>Karma</em></li>
-						<li><em>Protractor</em></li>
-						<li><em>Jest</em></li>
+						<li><em>Rspec</em></li>
+						<li><em>Capybara</em></li>
+						<li><em>Factory Girl</em></li>
 					</ul>
 				</div>
 
@@ -78,8 +77,7 @@ class Home extends Component {
 				</div>
 
 				<div className="exclaimation">
-					<em><b>*</b> This site is built with these technologies. View the <a href="https://github.com/caljrimmer/portfolio-redux-app">github repo here</a>.</em><br/>
-					<em><b>**</b> Yep, I know React can be used on the server side too. This site is Isomorphical rendered.</em>
+					<em><b>*</b> Check out my Github repo here: <a href="https://github.com/1UnboundedSentience"></a>.</em><br/>
 				</div>
 
   			</div>
