@@ -18,13 +18,13 @@ class Home extends Component {
     return (
 
       	<div className="posts">
-  
+
   			<div className="post banner">
 			    <h1 className="post-title">I build <em>scalable</em>, <em>maintainable</em> and <em>secure</em> enterprise web applications.</h1>
     			<p>for <em>agencies</em>, <em>bluechips</em>, <em>start-ups</em> and sometimes, <em>myself</em>. <a href="#" onClick={this.eventToggleSidebar}> Find out More</a></p>
 
 			</div>
-  
+
 		  	<div className="post clearfix">
 
 				<h2>Technologies I build with:</h2>
@@ -51,7 +51,7 @@ class Home extends Component {
 						<li><em><b>*</b>Node</em>
 							<ul>
 								<li><em><b>*</b>Express</em></li>
-								<li><em>Hapi</em></li>
+								<li><em>SQL</em></li>
 							</ul>
 						</li>
 					</ul>
@@ -90,8 +90,8 @@ class Home extends Component {
 				<h2>Companies I have worked with:</h2>
 
 				<ul className="clients">
-					<li className="goldmans-logo">Goldman Sachs</li>
-					<li className="orange-logo">Orange</li>
+					<li className="goldmans-logo">Hertz Rent-a-car management training</li>
+					<li className="orange-logo">Terasem Movement Inc.</li>
 					<li className="tesco-logo">Tesco</li>
 					<li className="timeout-logo">Timeout</li>
 					<li className="wiley-logo">John Wiley and Sons</li>
@@ -104,7 +104,7 @@ class Home extends Component {
 			<Banner />
 
   		</div>
-  
+
     );
   }
 }

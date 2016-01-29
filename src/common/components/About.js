@@ -25,7 +25,7 @@ class About extends Component {
 
       	  	<h3>About Me</h3>
 
-      	  	<p>I have been developing web sites for over 15 years. Over the years, I have adopted, mastered and moved on from many languages, frameworks and architectures. I currently focus on Javascript heavy web application development.</p> 
+      	  	<p>I have been developing web sites for 2000 hours the past year. I have adopted, mastered and moved on from many languages, frameworks and architectures. I currently focus on Javascript heavy web application development.</p>
 
       	  	<p>I created my first start-up in 2004 which raised £30K pounds investment which sold custom built software to companies like News International, NHS and Guardian.</p>
 
