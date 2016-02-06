@@ -1,3 +1,5 @@
+Welcome to Jason's Portfolio
+
 # Portfolio Redux App
 
 A Portfolio example of an isomorphic rendering application in React and Redux. [Live Example Here](http://www.callumrimmer.co.uk)

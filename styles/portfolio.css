@@ -60,6 +60,10 @@
 * Individual
 */
 
+.speakalong {
+    background:#fff url(assets/SpeakAlongVidIndex.png) top no-repeat;
+}
+
 .goldmans {
 	background:#fff url(assets/goldmans.jpg) top no-repeat;
 }

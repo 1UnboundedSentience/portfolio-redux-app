@@ -1,17 +1,19 @@
+// add a short description key to roles
+
 export function getPortfolio() {
   return [
     {
-    	link : 'http://www.goldmansachs.com',
-    	title : 'Goldman Sachs',
+    	link : 'https://www.speakalong.herokuapp.com',
+    	title : 'SpeakAlong',
     	classname : 'goldmans',
     	roles : [
     		{
     			title : 'Front End Developer',
-    			skills : 'React, Backbone, D3'
+    			skills : 'React.js, HTML, CSS'
     		},
     		{
     			title : 'Back End Developer',
-    			skills : 'Node, MongoDB, Webpack'
+    			skills : 'MySQL, PostgreSQL'
     		}
     	]
     },
@@ -31,13 +33,13 @@ export function getPortfolio() {
     	]
     },
     {
-    	link : 'http://www.pwul.net',
-    	title : 'Pay What You Like',
+    	link : 'http://www.helpmyneighbor.net',
+    	title : 'Help My Neighbor',
     	classname : 'pwul',
     	roles : [
     		{
     			title : 'Front End Developer',
-    			skills : 'React, Backbone, D3'
+    			skills : 'HTML, CSS, D3'
     		},
     		{
     			title : 'Back End Developer',
@@ -46,8 +48,8 @@ export function getPortfolio() {
     	]
     },
     {
-    	link : 'http://www.timeout.com/london/card',
-    	title : 'Timeout',
+    	link : 'http://bit.ly/27percenters',
+    	title : '27 Percenters',
     	classname : 'timeout',
     	roles : [
     		{

@@ -63,14 +63,16 @@ ul.clients li {
    box-shadow:1px 1px 1px #ccc;
 }
 
-ul.clients li.goldmans-logo {
-   background: url('assets/goldmans-logo.jpg') no-repeat;
+ul.clients li.hertz-logo {
+   background: url('assets/Hertz_Logo.svg.png') no-repeat;
    width:124px;
+   height: auto;
 }
 
-ul.clients li.orange-logo {
-   background: url('assets/orange-logo.jpg') no-repeat;
+ul.clients li.terasem-logo {
+   background: url('assets/terasem.png') no-repeat;
    width:70px;
+   height: auto;
 }
 
 ul.clients li.tesco-logo {
@@ -143,8 +145,8 @@ ul.clients li.shipserv-logo {
    color:#fff;
    padding:0.2em 1em 0.2em;
    margin:0.2em;
-   clear:both; 
-   font-style:normal; 
+   clear:both;
+   font-style:normal;
    box-shadow:1px 1px 1px #ccc;
 }
 

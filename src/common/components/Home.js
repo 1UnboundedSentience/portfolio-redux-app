@@ -20,8 +20,8 @@ class Home extends Component {
       	<div className="posts">
 
   			<div className="post banner">
-			    <h1 className="post-title">I build <em>scalable</em>, <em>maintainable</em> and <em>secure</em> enterprise web applications.</h1>
-    			<p>for <em>agencies</em>, <em>bluechips</em>, <em>start-ups</em> and sometimes, <em>myself</em>. <a href="#" onClick={this.eventToggleSidebar}> Find out More</a></p>
+			    <h1 className="post-title">I build <em>scalable</em>, <em>maintainable</em> and <em>responsive</em> web applications.</h1>
+    			<p>for <em>agencies</em>, <em>individuals</em>, <em>start-ups</em> and sometimes, <em>myself</em>. <a href="#" onClick={this.eventToggleSidebar}> Find out More</a></p>
 
 			</div>
 
@@ -69,8 +69,8 @@ class Home extends Component {
 				<div className="skill-item clearfix">
 					<h4>Deployment</h4>
 					<ul className="clearfix">
-						<li><em><b>*</b>Nginx</em></li>
-						<li><em><b>*</b>Webpack</em></li>
+						<li><em><b>*</b>Heroku</em></li>
+						<li><em><b>*</b>Dreamhost</em></li>
 						<li><em>Gulp</em></li>
 						<li><em>Grunt</em></li>
 					</ul>
@@ -88,13 +88,9 @@ class Home extends Component {
 				<h2>Companies I have worked with:</h2>
 
 				<ul className="clients">
-					<li className="goldmans-logo">Hertz Rent-a-car management training</li>
-					<li className="orange-logo">Terasem Movement Inc.</li>
-					<li className="tesco-logo">Tesco</li>
-					<li className="timeout-logo">Timeout</li>
-					<li className="wiley-logo">John Wiley and Sons</li>
-					<li className="covestor-logo">Covestor</li>
-					<li className="shipserv-logo">Shipserv</li>
+					<li className="hertz-logo">Hertz Rent-a-car management training</li> Hertz
+					<li className="terasem-logo">Terasem Movement Inc.</li> Terasem
+
 				</ul>
 
 			</div>

@@ -39,10 +39,6 @@ class Sidebar extends Component {
 				Visit <a href="https://twitter.com/selachusrex">My Twitter</a><br/>
 		    </p>
 
-		    <p>
-		    	Design based on <a href="http://lanyon.getpoole.com/"> Lanyon Theme</a>
-		    </p>
-
 		  </div>
 
 		</div>

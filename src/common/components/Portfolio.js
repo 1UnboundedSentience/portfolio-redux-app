@@ -3,15 +3,13 @@ import { getPortfolio } from '../api/portfolio';
 import classNames from 'classnames';
 
 class Portfolio extends Component {
-
   render() {
-
   	const portfolio = getPortfolio();
 	const RoleRows = (roles) => {
 		return roles.map((role) => {
 			return (
 				<div key={role.title} className="role_wrapper clearfix">
-					<p className="role">Role</p>
+					<p className="role">SpeakAlong</p>
 					<p className="role_title">{role.title}<br />
 					<span className="role_skills">{role.skills}</span></p>
 				</div>

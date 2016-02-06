@@ -12,14 +12,14 @@ class Services extends Component {
 
       	  <div className="services">
 
-      	  	<h3>Prototypes/MVPs</h3>
+      	  	<h3>Prototypes</h3>
 
-      	  	<p>I can build you a prototype or a minimal viable product (MVP)for your idea. An MVP can validate your idea and help you raise funding.
-      	  	</p> 
+      	  	<p>I can build you a prototype or a minimal viable product(MVP) for your idea. An MVP can validate your idea and help you raise funding.
+      	  	</p>
 
       	  	<p>The code I deliver will be the best possible foundations from which your application and idea can grow.</p>
 
-	      	<h3>Training</h3>
+	      	<h3>Front-End Web Development</h3>
 
 	      	<p>I can help you or your employees develop their web development coding skills. I have been teaching code to both beginners and professionals for many years.</p>
 
@@ -32,7 +32,7 @@ class Services extends Component {
       	  	<h3>Enterprise Web Apps</h3>
 
       	  	<p>Whether you are a Start-up or Bluechip company, I can help you build you a production ready web application.
-      	  	</p> 
+      	  	</p>
 
       	  	<p>The web application will be built with the best technologies and will be scalable, secure and maintainable.</p>
 
