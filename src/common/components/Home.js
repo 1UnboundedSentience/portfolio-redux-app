@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Banner from './layout/Banner';
 
 class Home extends Component {
-
+  //const Home = getHome();
   constructor(props){
     super(props);
     this.eventToggleSidebar = this.eventToggleSidebar.bind(this)
@@ -18,11 +18,11 @@ class Home extends Component {
     return (
 
       	<div className="posts">
-
+        <div className="photo"><li className="profile-pic"></li></div>
   			<div className="post banner">
-			    <h1 className="post-title">I build <em>scalable</em>, <em>maintainable</em> and <em>responsive</em> web applications.</h1>
+			    <h1 className="post-title">My name is Jason. I build <em>scalable</em>, <em>maintainable</em> and <em>responsive</em> web applications.</h1>
     			<p>for <em>agencies</em>, <em>individuals</em>, <em>start-ups</em> and sometimes, <em>myself</em>. <a href="#" onClick={this.eventToggleSidebar}> Find out More</a></p>
-
+          <a href="">My Resume</a>
 			</div>
 
 		  	<div className="post clearfix">

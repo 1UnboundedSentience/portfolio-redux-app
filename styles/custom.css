@@ -67,12 +67,21 @@ ul.clients li.hertz-logo {
    background: url('assets/Hertz_Logo.svg.png') no-repeat;
    width:124px;
    height: auto;
+   background-repeat: no-repeat;
+   background-size: contain;
+}
+
+ul.clients li.profile-pic {
+    background:#fff url('assets/profilePicture.png') top no-repeat;
 }
 
 ul.clients li.terasem-logo {
    background: url('assets/terasem.png') no-repeat;
    width:70px;
    height: auto;
+   background-repeat: no-repeat;
+   background-size: contain;
+
 }
 
 ul.clients li.tesco-logo {

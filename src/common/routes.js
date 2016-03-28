@@ -10,6 +10,7 @@ import HomePage from "./containers/HomePage";
 //Redux Dumb
 import PortfolioPage from "./components/Portfolio";
 import ServicesPage from "./components/Services";
+import ResumePage from "./components/Resume"
 import error404 from "./components/404";
 
 export default (
@@ -18,6 +19,7 @@ export default (
       <Route path="portfolio" component={PortfolioPage} />
       <Route path="services" component={ServicesPage} />
       <Route path="about" component={AboutPage} />
+      <Route path="resume" component={ResumePage} />
       <Route path="*" component={error404}/>
   </Route>
 );

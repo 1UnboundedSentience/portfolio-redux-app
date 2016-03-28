@@ -5,101 +5,76 @@ export function getPortfolio() {
     {
     	link : 'https://www.speakalong.herokuapp.com',
     	title : 'SpeakAlong',
-    	classname : 'goldmans',
+    	classname : 'speakalong',
     	roles : [
     		{
-    			title : 'Front End Developer',
-    			skills : 'React.js, HTML, CSS'
+    			title : 'Front End Development',
+    			skills : 'React.js, HTML, CSS, JS, jQuery, WebRTC'
     		},
     		{
     			title : 'Back End Developer',
-    			skills : 'MySQL, PostgreSQL'
+    			skills : 'MySQL, PostgreSQL, Heroku'
     		}
     	]
     },
     {
-    	link : 'http://www.libon.com/',
-    	title : 'Orange (Libon)',
-    	classname : 'orange',
+    	link : 'http://www.moneyfriends.herokuapp.com/',
+    	title : 'MoneyFriends',
+    	classname : 'moneyfriends',
     	roles : [
     		{
     			title : 'Front End Developer',
-    			skills : 'Backbone, WebRTC, FireFoxOS'
+    			skills : 'HTML, CSS, JS, jQuery'
     		},
     		{
     			title : 'Back End Developer',
-    			skills : 'Node, MongoDB, Grunt'
+    			skills : 'MySQL, PostgreSQL, Heroku, Amazon S3'
     		}
     	]
     },
     {
     	link : 'http://www.helpmyneighbor.net',
     	title : 'Help My Neighbor',
-    	classname : 'pwul',
+    	classname : 'helpmyneighbor',
     	roles : [
     		{
     			title : 'Front End Developer',
-    			skills : 'HTML, CSS, D3'
+    			skills : 'HTML, CSS, JS, jQuery'
     		},
     		{
     			title : 'Back End Developer',
-    			skills : 'Node, MongoDB, Gulp'
+    			skills : 'MySQL, PostgreSQL, Heroku'
     		}
     	]
+    },
+    {
+        link : 'http://teamcodex.herokuapp.com/',
+        title : 'Team Codex',
+        classname : 'teamcodex',
+        roles : [
+            {
+                title : 'Front End Developer',
+                skills : 'HTML, CSS, JS, jQuery'
+            },
+            {
+                title : 'Back End Developer',
+                skills : 'MySQL, PostgreSQL, Heroku'
+            }
+        ]
     },
     {
     	link : 'http://bit.ly/27percenters',
     	title : '27 Percenters',
-    	classname : 'timeout',
+    	classname : 'percenters',
     	roles : [
     		{
     			title : 'Front End Developer',
-    			skills : 'Backbone, CSS3, HTML5'
-    		}
-    	]
-    },
-    {
-    	link : 'http://www.tesco.com/direct',
-    	title : 'Tesco Entertainment',
-    	classname : 'tesco',
-    	roles : [
-    		{
-    			title : 'Front End Developer',
-    			skills : 'Backbone, CSS3, HTML5'
-    		}
-    	]
-    },
-    {
-    	link : 'http://onlinelibrary.wiley.com',
-    	title : 'John Wiley and Sons',
-    	classname : 'wiley',
-    	roles : [
-    		{
-    			title : 'Front End Developer',
-    			skills : 'Backbone, CSS3, HTML5'
-    		}
-    	]
-    },
-    {
-    	link : 'http://www.covestor.com',
-    	title : 'Covestor',
-    	classname : 'covestor',
-    	roles : [
-    		{
-    			title : 'Front End Developer',
-    			skills : 'OO Javascript, CSS3, HTML5'
-    		}
-    	]
-    },
-    {
-    	link : 'http://www.shipserv.com',
-    	title : 'ShipServ',
-    	classname : 'shipserv',
-    	roles : [
-    		{
-    			title : 'Front End Developer',
-    			skills : 'OO Javascript, CSS3, HTML5'
-    		}
+    			skills : 'HTML, CSS, Ionic'
+    		},
+            {
+                title : 'Back End Developer',
+                skills : 'FireBase'
+            }
     	]
     }
   ]

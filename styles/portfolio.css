@@ -60,36 +60,66 @@
 * Individual
 */
 
-.speakalong {
-    background:#fff url(assets/SpeakAlongVidIndex.png) top no-repeat;
+.resume {
+    background-image:url(http://ran.ge/content/uploads/2009/11/logo-trimmed.png);
+    display:block;
+    height:100px;
+    text-indent:-9999px;
+    width:460px;
 }
 
-.goldmans {
-	background:#fff url(assets/goldmans.jpg) top no-repeat;
+.speakalong {
+    background:#fff url(assets/SpeakAlongVidIndex.png) top no-repeat;
+    background-size: 50%;
+}
+.moneyfriends {
+    background:#fff url(assets/moneyFriends.png) top no-repeat;
+    background-size: 50%;
+}
+
+.helpmyneighbor {
+    background:#fff url(assets/helpmyneighbor.png) top no-repeat;
+    background-size: 50%;
+}
+
+.teamcodex {
+	background:#fff url(assets/teamCodex.png) top no-repeat;
+    background-size: 50%;
+}
+
+.percenters {
+    background:#fff url(assets/27percenters.png) top no-repeat;
+    background-size: 20%;
 }
 
 .orange {
 	background:#fff url(assets/orange.jpg) top no-repeat;
+    background-size: 100%;
 }
 
 .tesco {
 	background:#fff url(assets/tesco.png) top no-repeat;
+    background-size: 100%;
 }
 
 .timeout {
 	background:#fff url(assets/timeout.png) top no-repeat;
+    background-size: 100%;
 }
 
 .wiley {
 	background:#fff url(assets/wiley.png) top no-repeat;
+    background-size: 100%;
 }
 
 .hellas {
 	background:#fff url(assets/hellas.png) top no-repeat;
+    background-size: 100%;
 }
 
 .shipserv {
 	background:#fff url(assets/shipserv.png) top no-repeat;
+    background-size: 100%;
 }
 
 .covestor {

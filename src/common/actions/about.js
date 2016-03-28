@@ -17,7 +17,13 @@ export function invalidateRepos(repos) {
 export function fetchRepos() {
   return {
     type: REPOS_GET,
-    promise: request.get(`https://api.github.com/users/caljrimmer/repos`)
+    promise: request.get(`https://api.github.com/users/1UnboundedSentience/repos`)
+  }
+}
+
+export function getProfilePhoto() {
+  return {
+    //get the profile photo like the other data
   }
 }
 
