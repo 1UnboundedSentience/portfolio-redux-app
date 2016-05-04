@@ -11,7 +11,6 @@
  * Themes
  */
 
-
 /*
  * Global resets
  *
@@ -279,7 +278,7 @@ a.sidebar-nav-item:focus {
   visibility: visible;
   -webkit-transform: translateX(14rem);
       -ms-transform: translateX(14rem);
-          transform: translateX(14rem);  
+          transform: translateX(14rem);
 }
 
 .sidebar-footer a{

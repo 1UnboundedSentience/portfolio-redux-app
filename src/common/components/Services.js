@@ -23,9 +23,8 @@ class Services extends Component {
 
 	      	<p>I can help you or your employees develop their web development coding skills. I have been teaching code to both beginners and professionals for many years.</p>
 
-	      	<p>I have my own training company called <a href="http://pencil.training" target="_blank">Pencil Training</a>. More details can be found <a href="http://pencil.training" target="_blank">here</a>.</p>
-
-	      </div>
+	      	<p>I have my own language learning start-up "SpeakAlong", whose goal is to make self-learning languages easy.  <a href="https://speakalong.herokuapp.com">speakalong.herokuapp.com</a></p>
+	       </div>
 
 	      <div className="services">
 
@@ -36,9 +35,9 @@ class Services extends Component {
 
       	  	<p>The web application will be built with the best technologies and will be scalable, secure and maintainable.</p>
 
-      	  	<h3>Hybridised Development</h3>
+      	  	<h3>Hybridized Development</h3>
 
-      	  	<p>Do you need a mobile app and web app with the same code base? I can code your web application so that it utilises Phonegap/Cordova to build both a web application and a cross-device mobile application.</p>
+      	  	<p>Do you need a mobile app and web app with the same code base? I can code your web application so that it utilises Ionic to build both a web application and a cross-device mobile application.</p>
 
 	      </div>
 

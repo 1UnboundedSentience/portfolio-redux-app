@@ -63,6 +63,7 @@ ul.clients li {
    box-shadow:1px 1px 1px #ccc;
 }
 
+
 ul.clients li.hertz-logo {
    background: url('assets/Hertz_Logo.svg.png') no-repeat;
    width:124px;
@@ -71,8 +72,12 @@ ul.clients li.hertz-logo {
    background-size: contain;
 }
 
-ul.clients li.profile-pic {
-    background:#fff url('assets/profilePicture.png') top no-repeat;
+div.profile-pic {
+    background:#fff url('assets/profilePic2.jpg') top no-repeat;
+    zoom: 0.2;
+    height: 600px;
+    width: 600px;
+    float: right;
 }
 
 ul.clients li.terasem-logo {

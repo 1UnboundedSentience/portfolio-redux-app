@@ -18,13 +18,12 @@ class Home extends Component {
     return (
 
       	<div className="posts">
-        <div className="photo"><li className="profile-pic"></li></div>
   			<div className="post banner">
 			    <h1 className="post-title">My name is Jason. I build <em>scalable</em>, <em>maintainable</em> and <em>responsive</em> web applications.</h1>
     			<p>for <em>agencies</em>, <em>individuals</em>, <em>start-ups</em> and sometimes, <em>myself</em>. <a href="#" onClick={this.eventToggleSidebar}> Find out More</a></p>
-          <a href="">My Resume</a>
-			</div>
-
+          <div className="profile-pic"></div>
+          <a href="https://resume.creddle.io/embed/1qipny5ai44" target="blank">My Resume</a>
+			  </div>
 		  	<div className="post clearfix">
 
 				<h2>Technologies I build with:</h2>
@@ -84,16 +83,13 @@ class Home extends Component {
 
 
   			<div className="post clearfix">
+  				<h2>Companies I have worked with:</h2>
+  				<ul className="clients">
+  					<li className="hertz-logo">Hertz Rent-a-car management training</li>
+  					<li className="terasem-logo">Terasem Movement Inc.</li>
 
-				<h2>Companies I have worked with:</h2>
-
-				<ul className="clients">
-					<li className="hertz-logo">Hertz Rent-a-car management training</li> Hertz
-					<li className="terasem-logo">Terasem Movement Inc.</li> Terasem
-
-				</ul>
-
-			</div>
+  				</ul>
+			  </div>
 
 			<Banner />
 
